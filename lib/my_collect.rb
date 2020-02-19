@@ -9,5 +9,3 @@ def my_collect(languages)
 end
 name_collection
 end
-
-  end
